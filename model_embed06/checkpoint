@@ -1,0 +1,4 @@
+model_checkpoint_path: "model.ckpt-999"
+all_model_checkpoint_paths: "E:\\AI\\DL\\4RNN\\[20190615]_RNN_beifeng\\05_\351\232\217\345\240\202\344\273\243\347\240\201\\05_\351\232\217\345\240\202\344\273\243\347\240\201\\rnn_vincent\\models\\model_embed06\\model.ckpt-499"
+all_model_checkpoint_paths: "model.ckpt-499"
+all_model_checkpoint_paths: "model.ckpt-999"
